@@ -1,1 +1,1 @@
-# computer-graphics-sec-A-project-design-of-AIUB group:P K
+# computer-graphics-sec-A-project-design-of-AIUB group: K
